@@ -9,4 +9,5 @@
   <string name="play">Play</string>
   <string name="run">Run</string>
   <string name="pause">Pause</string>
+  <string name="build_message">Click to place the vertices of a triangle.</string>
 </resources>
